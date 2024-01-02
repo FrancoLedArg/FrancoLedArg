@@ -4,11 +4,14 @@
 <img align="right" alt="doodle" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdpb2FsamUwOXhydnA3Mm4xZDNkMHRuZjZoNW9xMnB3MXZlejJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
 
 <br />
+<br />
+<br />
 
 - 📫 How to reach me **francoledesma100@gmail.com**
 - 🔭 I’m currently working on **Launching my new startup to connect founders with experts to help them grow their business!**
 - 🌱 I’m currently learning **Animations and 3D for the web!** 
 
+<br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
