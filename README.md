@@ -8,7 +8,7 @@
 <br />
 
 - 📫 How to reach me **francoledesma100@gmail.com**
-- 🔭 I’m currently working on **launching a new startup to help founders connect with experts to help them grow their business!**
+- 🔭 CTO of **Inquisition**
 - 🌱 I’m currently learning **Animations and 3D for the web!** 
 
 <br />
